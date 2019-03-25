@@ -18,7 +18,6 @@ const realm = new Realm({
   inMemory: false,
 });
 
-
 function saveMarker(marker) {
   return new Promise((resolve, reject) => {
     try {
