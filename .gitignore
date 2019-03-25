@@ -61,3 +61,4 @@ yarn.lock
 db/
 dist/
 realm-object-server/
+.env
